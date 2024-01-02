@@ -17,7 +17,7 @@ import com.imfreepass.prj.util.WebUtils;
 public class Admin extends HttpServlet{
 	private BoardService boardService = BoardService.getInstance();
 
-	// get
+	// get dd 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		MemberVO member = WebUtils.getMember(req);

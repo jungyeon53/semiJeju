@@ -98,8 +98,15 @@ Eclipse
 <img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b5e630a9-969c-488b-ba51-7d66d184bf23" style="width:500px">
 <br/>
 <br/>
-2. 게시글 등록 & 관리자 답변<br/>
-   - 고객님과 사장님의 게시글에 관리자는 답변을 달 수 있습니다.<br/>
+
+2. 게시글 등록 & 관리자 답변
+   - 고객님과 사장님의 게시글에 관리자는 답변을 달 수 있습니다. <br/>
 <img src="https://github.com/jungyeon53/senuJeju/assets/150405152/54d5c660-185f-4719-a3ab-7740f7348122" style="width:500px">
 <img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b8f8338b-7bfb-4574-a25f-7e73b33fba37" style="width:500px">
+<br/>
+<br/>
 
+3. 호텔 목록 및 리뷰
+   - 고객님은 호텔 예약 후 리뷰를 작성할 수 있습니다. <br/>
+<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/d91e27af-b41d-404a-93cf-3e3fc4f4eebc" style="width:500px">
+<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/a820a457-0cc3-4625-802a-457adfc07358" style="width:500px">

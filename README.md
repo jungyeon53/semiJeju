@@ -85,14 +85,21 @@ Eclipse
    - 게시글 등록 & 수정 & 삭제
    - 관리자 페이지
    - 고객 문의 답변
-    https://github.com/jungyeon53/senuJeju/assets/150405152/b5e630a9-969c-488b-ba51-7d66d184bf23
+
 ### 데이터 베이스
-[테이블 명세서](https://docs.google.com/spreadsheets/d/17hfCd9a4bhDbJpbDySGt81o7KpOmWIun/edit#gid=179553652)
+[테이블 명세서](https://docs.google.com/spreadsheets/d/17hfCd9a4bhDbJpbDySGt81o7KpOmWIun/edit#gid=179553652)<br/>
 <img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b69dacdf-6220-4b2a-98c1-a051222dce9a" style="width:800px">
 
 ## 제주어때 기능
 
 1. 호텔등록 & 객실등록
-   
-<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b2462ddc-14fb-498b-8d15-8f2a178f0a59" style="width:800px">
-<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b5e630a9-969c-488b-ba51-7d66d184bf23" style="width:800px">
+   - 호텔과 객실등록의 첨부파일은 화면에서는 비동기처럼 보이지만 실제로는 동기로 처리했습니다. <br/>
+<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b2462ddc-14fb-498b-8d15-8f2a178f0a59" style="width:500px">
+<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b5e630a9-969c-488b-ba51-7d66d184bf23" style="width:500px">
+<br/>
+<br/>
+2. 게시글 등록 & 관리자 답변<br/>
+   - 고객님과 사장님의 게시글에 관리자는 답변을 달 수 있습니다.<br/>
+<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/54d5c660-185f-4719-a3ab-7740f7348122" style="width:500px">
+<img src="https://github.com/jungyeon53/senuJeju/assets/150405152/b8f8338b-7bfb-4574-a25f-7e73b33fba37" style="width:500px">
+

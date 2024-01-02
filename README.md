@@ -117,7 +117,7 @@ Eclipse
 4. 회원가입 및 로그인
    - 고객님과 사장님은 회원가입 후 로그인이 가능합니다. <br/>
 <img src="https://github.com/jungyeon53/semiJeju/assets/150405152/739e68df-314d-4155-a487-aed39f8b8908" style="width:500px">
-
+<img src="https://github.com/jungyeon53/semiJeju/assets/150405152/303ce2db-aedc-4ac6-b3ae-e0ab5c5197da" style="width:500px">
 
 ## 이슈사항 및 리뷰
 프로젝트 시작하고 2주 뒤에 팀원 한명이 건강상의 이유로 빠지게 되었습니다. <br/>

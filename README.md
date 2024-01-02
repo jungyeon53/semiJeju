@@ -1,7 +1,7 @@
 <h3 align="center">
   JEJU어때
 </h3>
-<h4 align="center">작업기간: 2023.10.16 ~ 2023.11.07
+<h4 align="center">작업기간: 2023.10.04 ~ 2023.11.07
 <h6 align="center">제주도의 숙박과 주변관광지까지 볼 수 있는 <br/>여행 플랫폼으로 제주어때를 기획했습니다.</h6>
 <p align="center">
   <img src="https://github.com/jungyeon53/senuJeju/assets/150405152/acc0d1ff-e24b-44c6-8032-4b8106ed6641" style="width:1200px">

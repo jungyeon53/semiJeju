@@ -6,7 +6,7 @@ import lombok.Data;
 
 @Data
 public class AttachDTO {
-	public static final String UPLOAD_PATH = "/Users/kimjeong-yeon/Desktop/study/SEMI/last";
+	public static final String UPLOAD_PATH = "c:/goodchoice";
 	
 	private String uuid;
 	private String origin;

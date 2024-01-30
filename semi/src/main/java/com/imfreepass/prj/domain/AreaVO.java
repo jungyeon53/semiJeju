@@ -3,6 +3,8 @@ package com.imfreepass.prj.domain;
 import lombok.Builder;
 import lombok.Data;
 
+
+// 지역 
 @Data
 @Builder
 public class AreaVO {

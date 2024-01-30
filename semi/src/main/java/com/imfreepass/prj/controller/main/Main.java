@@ -28,7 +28,7 @@ public class Main extends HttpServlet{
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		// 상단 카테고리 호텔리스트
 	    List<Map<String, Object>> hotelVOs = hotelService.mainList();
-	     
+	    
 	    req.setAttribute("hotels", hotelVOs);
 	    System.out.println(hotelVOs);
 	    
